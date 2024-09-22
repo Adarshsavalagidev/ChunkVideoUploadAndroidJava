@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VideoUploadSample</string>
+    <string name="select_video">Select Video</string>
+    <string name="upload">Upload</string>
+</resources>
